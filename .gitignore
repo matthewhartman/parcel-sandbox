@@ -1,0 +1,9 @@
+.DS_Store
+node_modules
+/build
+/*.log
+*.lock
+.cache
+.parcel-cache
+package-lock.json
+dist
